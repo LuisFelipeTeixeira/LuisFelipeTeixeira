@@ -24,5 +24,5 @@
 </div>
 
 <div align="center">
- <img alt="Snake Animation" src="https://github.com/Luisftexeira/Luisftexeira/blob/output/github-contribution-grid-snake.svg"/>
+ <img alt="Snake Animation" src="https://github.com/luishperna/luishperna/blob/output/github-contribution-grid-snake.svg"/>
 </div>
