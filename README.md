@@ -23,7 +23,3 @@
   <a href="https://www.linkedin.com/in/luis-felipe-39699220b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </h1>
 </div>
-
-<div align="center">
- <img alt="Snake Animation" src="https://github.com/luishperna/luishperna/blob/output/github-contribution-grid-snake.svg"/>
-</div>
