@@ -1,7 +1,7 @@
-<h1 align="center"> Olá! Eu me chamo Luis Felipe.</h1>
+ <img align="center" alt="sejabemvindo" height="480" width="1280" src="https://user-images.githubusercontent.com/110144848/231310705-d2b4d9e7-6a23-43d1-b767-faf0048cc336.png">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=55EAAB&size=25&center=true&vCenter=true&width=1000&lines=Futuro+programador;A+caminho+do+sucesso)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=25&center=true&vCenter=true&width=1000&lines=Futuro+programador;A+caminho+do+sucesso)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisftexeira&show_icons=true&theme=react)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisftexeira&layout=compact&theme=react)](https://github.com/Luisftexeira/github-readme-stats)
