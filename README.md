@@ -1,4 +1,4 @@
- <img align="center" alt="sejabemvindo" height="480" width="1280" src="https://user-images.githubusercontent.com/110144848/231310705-d2b4d9e7-6a23-43d1-b767-faf0048cc336.png">
+ <img align="center" alt="sejabemvindo" height="200" width="1280" src="https://user-images.githubusercontent.com/110144848/231310705-d2b4d9e7-6a23-43d1-b767-faf0048cc336.png">
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=25&center=true&vCenter=true&width=1000&lines=Futuro+programador;A+caminho+do+sucesso)](https://git.io/typing-svg)
