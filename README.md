@@ -67,5 +67,9 @@
 
    <a href = "mailto:luisftexeira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "https://www.linkedin.com/in/luis-felipe-39699220b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+<br>
  </p>
+ 
+- **Contador de visitas**:
+
+<img src="https://profile-counter.glitch.me/Luisftexeira/count.svg" alt="Hello world" />
