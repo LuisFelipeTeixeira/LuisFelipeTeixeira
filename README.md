@@ -1,4 +1,4 @@
- <img align="center" alt="sejabemvindo" height="360" width="1280" src="https://user-images.githubusercontent.com/110144848/231312907-8c63f85f-7a01-4460-a14c-f356abc1336d.png">
+ <img align="center" alt="sejabemvindo" height="360" width="1280" src="https://github.com/LuisFelipeTeixeira/LuisFelipeTeixeira/assets/110144848/3593ede8-b48d-48c2-8094-03e265791648">
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=25&center=true&vCenter=true&width=1000&lines=Futuro+programador;Estudante+de+ADS;A+caminho+do+sucesso;Desistir+nunca+foi+uma+opção+!)](https://git.io/typing-svg)
