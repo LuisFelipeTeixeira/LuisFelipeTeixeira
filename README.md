@@ -2,8 +2,8 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=25&center=true&vCenter=true&width=1000&lines=Futuro+programador;Estudante+de+ADS;A+caminho+do+sucesso;Desistir+nunca+foi+uma+opção+!)](https://git.io/typing-svg)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisftexeira&show_icons=true&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisftexeira&layout=compact&theme=react)](https://github.com/Luisftexeira/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFelipeTeixeira&show_icons=true&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipeTeixeira&layout=compact&theme=react)](https://github.com/Luisftexeira/github-readme-stats)
 <div style="display: inline_block"><br></div>
 
 <div>
@@ -72,4 +72,4 @@
  
 - **Contador de visitas**:
 
-<img src="https://profile-counter.glitch.me/Luisftexeira/count.svg" alt="Hello world" />
+<img src="https://profile-counter.glitch.me/LuisFelipeTeixeira/count.svg" alt="Hello world" />
